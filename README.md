@@ -19,8 +19,10 @@ No Javascript was used.
 https://leony666.github.io/GamingShop/Product.html
 
 ## Screenshots
+![Homepage](Images/homepage.png)
 
 
 ## Author
 Naing Aung Win - University project for module - CST0400 - Created on: 11th of Feb 2026
+
 
